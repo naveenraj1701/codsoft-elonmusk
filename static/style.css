@@ -1,0 +1,103 @@
+body{
+    margin: 10px;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 100%, rgba(9,9,121,1) 100%, rgba(0,212,255,1) 100%);
+}
+img{
+    border-radius: 20px;
+    float: left;
+    padding: 0px;
+}
+h1{
+    text-align: center;
+    font-size: 5rem;
+    margin: 0px;
+}
+h3{
+    color: white;
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 0px;
+}
+#para{
+    color: white;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 28rem;
+}
+#tribute{
+    display: block;
+  min-height: 50px;
+  min-width: 180px;
+  text-decoration: none;
+  font-size: 15px;
+  color: #fff;
+  background: #37d25b;
+  width: 50%;
+  text-align: center;
+  padding: 1rem 2rem;
+  margin-top: 1rem;
+  margin-left: 33rem;
+  border-radius: 3px;
+  text-transform: uppercase;
+  transition: all 0.2s;
+  box-sizing: border-box;
+}
+p{
+    color: rgb(255, 255, 255);
+    font-size: 2rem;
+    margin-left: 50px;
+}
+h4{
+    margin: 0px;
+}
+#timeline-header{
+    margin-right: 65rem;
+    color: white;
+}
+h2{
+    margin-top: 3px;
+    margin-left: 20px;
+    font-size: 3rem;
+    color: #048099;
+}
+.timeline{
+    
+    background-image: url(Elon_Musk_Royal_Society.jpg);
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,0.7679446778711485) 0%, rgba(4,128,153,0.48503151260504207) 100%);
+
+}
+hr{
+    width: 60rem;
+    height: 5px;
+    border-radius: 20px;
+    background: rgb(4,128,153);
+    background: linear-gradient(90deg, rgba(4,128,153,1) 0%, rgba(4,128,153,1) 0%, rgba(2,0,36,1) 100%);
+}
+.end{
+    margin: 0px;
+    
+}
+#logo{
+    font-size: 2rem;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin-top: 3rem;
+    margin-bottom: 10px;
+}
+a{
+    color: black;
+}
+#linkedin{
+    border-radius: 10rem;
+    margin-left: 40rem;
+    width: 50px;
+    height: 50px;
+}
+#github{
+    border-radius: 10rem;
+    width: 50px;
+    height: 50px;
+}
+    
